@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f28b0e84-bb33-4c31-a192-3bf15e023999" name="Changes" comment="lesson 4">
+    <list default="true" id="f28b0e84-bb33-4c31-a192-3bf15e023999" name="Changes" comment="alternative">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,7 @@
     "Python.slots.executor": "Run",
     "Python.super_func.executor": "Run",
     "Python.task.executor": "Run",
+    "Python.try_exceprt.executor": "Run",
     "Python.user.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -64,7 +63,7 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.task">
+  <component name="RunManager">
     <configuration name="deadline_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="inheritance" />
       <option name="ENV_FILES" value="" />
@@ -218,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756675854818</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="alternative">
+      <option name="closed" value="true" />
+      <created>1756723286880</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756723286880</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +233,7 @@
     <MESSAGE value="lesson 2" />
     <MESSAGE value="lesson 3" />
     <MESSAGE value="lesson 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 4" />
+    <MESSAGE value="alternative" />
+    <option name="LAST_COMMIT_MESSAGE" value="alternative" />
   </component>
 </project>
